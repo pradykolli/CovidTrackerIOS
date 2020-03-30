@@ -47,13 +47,17 @@ class HomeViewController:UIViewController {
 
 extension HomeViewController:UISearchBarDelegate{
     func searchBarCancelButtonClicked(_ searchBar: UISearchBar) {
-        searchBar.endEditing(true)
+        searchBar.text = ""
+        searching = false
+        collectionView.reloadData()
     }
     
     func searchBar(_ searchBar: UISearchBar, textDidChange searchText: String) {
         if(searchText != ""){
             searchCountryArray = listingsArray?.filter({
-                return $0.countryName.prefix(searchText.count) == searchText
+                return $0.countryName
+                    .lowercased()
+                    .prefix(searchText.count) == searchText.lowercased()
             })
             searching = true
             collectionView.reloadData()
