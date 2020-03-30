@@ -7,7 +7,7 @@
 //
 
 import Foundation
-  
+ /// COVID Cases details
 struct Cases: Codable{
     var newCases:String
     var activeCases:Int
@@ -15,6 +15,7 @@ struct Cases: Codable{
     var recoveredCases:Int
     var totalCases:Int
     
+    ///COVID Cases codingkeys to check for additional JSON keys
     private enum CasesCodingKeys: String, CodingKey{
         case newCases = "new"
         case activeCases = "active"
@@ -33,6 +34,7 @@ struct Cases: Codable{
     
 }
 
+///COVID Death Cases Registered
 struct Deaths: Codable{
     var newDeaths:String
     var totalDeaths:Int
@@ -48,6 +50,7 @@ struct Deaths: Codable{
     }
 }
 
+/// COVID Cases recorded 
 struct Countries: Codable{
     var countryName:String
     var cases:Cases

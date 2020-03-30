@@ -40,6 +40,8 @@ class CovidServiceRequest:URLSession {
             }
         }.resume()
     }
+    override init() {
+    }
 }
 
 

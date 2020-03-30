@@ -16,18 +16,38 @@ class HomeViewController:UIViewController {
     var listingsArray:[Countries]?
     var searchCountryArray:[Countries]?
     var searching:Bool = false
+    private let refreshControl = UIRefreshControl()
     
     @IBOutlet weak var collectionView: UICollectionView!
-
     @IBOutlet weak var searchBarSB: UISearchBar!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         collectionView.delegate = self
         collectionView.dataSource = self
         searchBarSB.delegate = self
         self.makeServiceRequest()
-        
+        if #available(iOS 10.0, *) {
+            collectionView.refreshControl = refreshControl
+        } else {
+            collectionView.addSubview(refreshControl)
+        }
+        refreshControl.addTarget(self, action: #selector(refreshCOVIDData(_:)), for: .valueChanged)
+        refreshControl.tintColor = UIColor(red:0.25, green:0.72, blue:0.85, alpha:1.0)
+        refreshControl.attributedTitle = NSAttributedString(string: "Fetching COVID Cases...")
+
     }
+    
+    @objc private func refreshCOVIDData(_ sender: Any) {
+        // Fetch COVID Data
+        makeServiceRequest()
+        DispatchQueue.main.async {
+            self.collectionView.reloadData()
+        }
+        self.refreshControl.endRefreshing()
+    }
+    
+    /// Makes service request to the COVID tracker API and fetches the results.
     func makeServiceRequest(){
         serviceRequest.fetchCovidCases{(response) in
             switch response{
@@ -42,6 +62,7 @@ class HomeViewController:UIViewController {
             }
         }
     }
+    
 
 }
 
