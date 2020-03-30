@@ -1,0 +1,3273 @@
+
+{
+    "get": "statistics",
+    "parameters": [],
+    "errors": [],
+    "results": 204,
+    "response": [
+        {
+            "country": "China",
+            "cases": {
+                "new": "+55",
+                "active": 3460,
+                "critical": 1034,
+                "recovered": 74588,
+                "total": 81340
+            },
+            "deaths": {
+                "new": "+5",
+                "total": 3292
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Italy",
+            "cases": {
+                "new": "+6203",
+                "active": 62013,
+                "critical": 3612,
+                "recovered": 10361,
+                "total": 80589
+            },
+            "deaths": {
+                "new": "+712",
+                "total": 8215
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Spain",
+            "cases": {
+                "new": "+8271",
+                "active": 46406,
+                "critical": 3166,
+                "recovered": 7015,
+                "total": 57786
+            },
+            "deaths": {
+                "new": "+718",
+                "total": 4365
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "USA",
+            "cases": {
+                "new": "+17166",
+                "active": 82214,
+                "critical": 2122,
+                "recovered": 1868,
+                "total": 85377
+            },
+            "deaths": {
+                "new": "+268",
+                "total": 1295
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Germany",
+            "cases": {
+                "new": "+6615",
+                "active": 37998,
+                "critical": 23,
+                "recovered": 5673,
+                "total": 43938
+            },
+            "deaths": {
+                "new": "+61",
+                "total": 267
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Iran",
+            "cases": {
+                "new": "+2389",
+                "active": 16715,
+                "critical": 2746,
+                "recovered": 10457,
+                "total": 29406
+            },
+            "deaths": {
+                "new": "+157",
+                "total": 2234
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "France",
+            "cases": {
+                "new": "+3922",
+                "active": 22511,
+                "critical": 3375,
+                "recovered": 4948,
+                "total": 29155
+            },
+            "deaths": {
+                "new": "+365",
+                "total": 1696
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "S.-Korea",
+            "cases": {
+                "new": "+104",
+                "active": 4966,
+                "critical": 59,
+                "recovered": 4144,
+                "total": 9241
+            },
+            "deaths": {
+                "new": "+5",
+                "total": 131
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Switzerland",
+            "cases": {
+                "new": "+914",
+                "active": 11489,
+                "critical": 141,
+                "recovered": 131,
+                "total": 11811
+            },
+            "deaths": {
+                "new": "+38",
+                "total": 191
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "UK",
+            "cases": {
+                "new": "+2129",
+                "active": 10945,
+                "critical": 163,
+                "recovered": 135,
+                "total": 11658
+            },
+            "deaths": {
+                "new": "+113",
+                "total": 578
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Netherlands",
+            "cases": {
+                "new": "+1019",
+                "active": 6994,
+                "critical": 761,
+                "recovered": 3,
+                "total": 7431
+            },
+            "deaths": {
+                "new": "+78",
+                "total": 434
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Austria",
+            "cases": {
+                "new": "+1321",
+                "active": 6748,
+                "critical": 96,
+                "recovered": 112,
+                "total": 6909
+            },
+            "deaths": {
+                "new": "+18",
+                "total": 49
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Belgium",
+            "cases": {
+                "new": "+1298",
+                "active": 5340,
+                "critical": 605,
+                "recovered": 675,
+                "total": 6235
+            },
+            "deaths": {
+                "new": "+42",
+                "total": 220
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Norway",
+            "cases": {
+                "new": "+286",
+                "active": 3350,
+                "critical": 70,
+                "recovered": 6,
+                "total": 3370
+            },
+            "deaths": {
+                "new": null,
+                "total": 14
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Sweden",
+            "cases": {
+                "new": "+314",
+                "active": 2747,
+                "critical": 200,
+                "recovered": 16,
+                "total": 2840
+            },
+            "deaths": {
+                "new": "+15",
+                "total": 77
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Canada",
+            "cases": {
+                "new": "+634",
+                "active": 3776,
+                "critical": 120,
+                "recovered": 228,
+                "total": 4043
+            },
+            "deaths": {
+                "new": "+3",
+                "total": 39
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Denmark",
+            "cases": {
+                "new": "+153",
+                "active": 1835,
+                "critical": 94,
+                "recovered": 1,
+                "total": 1877
+            },
+            "deaths": {
+                "new": "+7",
+                "total": 41
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Portugal",
+            "cases": {
+                "new": "+549",
+                "active": 3441,
+                "critical": 61,
+                "recovered": 43,
+                "total": 3544
+            },
+            "deaths": {
+                "new": "+17",
+                "total": 60
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Malaysia",
+            "cases": {
+                "new": "+235",
+                "active": 1793,
+                "critical": 45,
+                "recovered": 215,
+                "total": 2031
+            },
+            "deaths": {
+                "new": "+3",
+                "total": 23
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Brazil",
+            "cases": {
+                "new": "+431",
+                "active": 2902,
+                "critical": 18,
+                "recovered": 6,
+                "total": 2985
+            },
+            "deaths": {
+                "new": "+18",
+                "total": 77
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Australia",
+            "cases": {
+                "new": "+374",
+                "active": 2867,
+                "critical": 23,
+                "recovered": 170,
+                "total": 3050
+            },
+            "deaths": {
+                "new": "+2",
+                "total": 13
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Japan",
+            "cases": {
+                "new": "+80",
+                "active": 981,
+                "critical": 57,
+                "recovered": 359,
+                "total": 1387
+            },
+            "deaths": {
+                "new": "+2",
+                "total": 47
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Czechia",
+            "cases": {
+                "new": "+271",
+                "active": 1906,
+                "critical": 34,
+                "recovered": 10,
+                "total": 1925
+            },
+            "deaths": {
+                "new": "+3",
+                "total": 9
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Turkey",
+            "cases": {
+                "new": "+1196",
+                "active": 3528,
+                "critical": 136,
+                "recovered": 26,
+                "total": 3629
+            },
+            "deaths": {
+                "new": "+16",
+                "total": 75
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Israel",
+            "cases": {
+                "new": "+324",
+                "active": 2617,
+                "critical": 46,
+                "recovered": 68,
+                "total": 2693
+            },
+            "deaths": {
+                "new": "+3",
+                "total": 8
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Ireland",
+            "cases": {
+                "new": "+255",
+                "active": 1795,
+                "critical": 47,
+                "recovered": 5,
+                "total": 1819
+            },
+            "deaths": {
+                "new": "+10",
+                "total": 19
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Diamond-Princess-",
+            "cases": {
+                "new": null,
+                "active": 105,
+                "critical": 15,
+                "recovered": 597,
+                "total": 712
+            },
+            "deaths": {
+                "new": null,
+                "total": 10
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Luxembourg",
+            "cases": {
+                "new": "+120",
+                "active": 1438,
+                "critical": 3,
+                "recovered": 6,
+                "total": 1453
+            },
+            "deaths": {
+                "new": "+1",
+                "total": 9
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Pakistan",
+            "cases": {
+                "new": "+138",
+                "active": 1171,
+                "critical": 5,
+                "recovered": 21,
+                "total": 1201
+            },
+            "deaths": {
+                "new": "+1",
+                "total": 9
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Chile",
+            "cases": {
+                "new": "+164",
+                "active": 1280,
+                "critical": 7,
+                "recovered": 22,
+                "total": 1306
+            },
+            "deaths": {
+                "new": "+1",
+                "total": 4
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Poland",
+            "cases": {
+                "new": "+170",
+                "active": 1198,
+                "critical": 3,
+                "recovered": 7,
+                "total": 1221
+            },
+            "deaths": {
+                "new": "+2",
+                "total": 16
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Ecuador",
+            "cases": {
+                "new": "+192",
+                "active": 1366,
+                "critical": 58,
+                "recovered": 3,
+                "total": 1403
+            },
+            "deaths": {
+                "new": "+5",
+                "total": 34
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Greece",
+            "cases": {
+                "new": "+71",
+                "active": 829,
+                "critical": 53,
+                "recovered": 36,
+                "total": 892
+            },
+            "deaths": {
+                "new": "+5",
+                "total": 27
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Finland",
+            "cases": {
+                "new": "+78",
+                "active": 943,
+                "critical": 24,
+                "recovered": 10,
+                "total": 958
+            },
+            "deaths": {
+                "new": "+2",
+                "total": 5
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Qatar",
+            "cases": {
+                "new": "+12",
+                "active": 506,
+                "critical": 6,
+                "recovered": 43,
+                "total": 549
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Iceland",
+            "cases": {
+                "new": "+65",
+                "active": 718,
+                "critical": 11,
+                "recovered": 82,
+                "total": 802
+            },
+            "deaths": {
+                "new": null,
+                "total": 2
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Indonesia",
+            "cases": {
+                "new": "+103",
+                "active": 780,
+                "critical": 0,
+                "recovered": 35,
+                "total": 893
+            },
+            "deaths": {
+                "new": "+20",
+                "total": 78
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Singapore",
+            "cases": {
+                "new": "+52",
+                "active": 509,
+                "critical": 17,
+                "recovered": 172,
+                "total": 683
+            },
+            "deaths": {
+                "new": null,
+                "total": 2
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Thailand",
+            "cases": {
+                "new": "+111",
+                "active": 953,
+                "critical": 4,
+                "recovered": 88,
+                "total": 1045
+            },
+            "deaths": {
+                "new": null,
+                "total": 4
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Saudi-Arabia",
+            "cases": {
+                "new": "+112",
+                "active": 976,
+                "critical": 6,
+                "recovered": 33,
+                "total": 1012
+            },
+            "deaths": {
+                "new": "+1",
+                "total": 3
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Slovenia",
+            "cases": {
+                "new": "+34",
+                "active": 546,
+                "critical": 14,
+                "recovered": 10,
+                "total": 562
+            },
+            "deaths": {
+                "new": "+1",
+                "total": 6
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Romania",
+            "cases": {
+                "new": "+123",
+                "active": 912,
+                "critical": 29,
+                "recovered": 94,
+                "total": 1029
+            },
+            "deaths": {
+                "new": "+6",
+                "total": 23
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "India",
+            "cases": {
+                "new": "+70",
+                "active": 662,
+                "critical": 0,
+                "recovered": 45,
+                "total": 727
+            },
+            "deaths": {
+                "new": "+8",
+                "total": 20
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Peru",
+            "cases": {
+                "new": "+100",
+                "active": 557,
+                "critical": 14,
+                "recovered": 14,
+                "total": 580
+            },
+            "deaths": {
+                "new": null,
+                "total": 9
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Bahrain",
+            "cases": {
+                "new": "+39",
+                "active": 250,
+                "critical": 1,
+                "recovered": 204,
+                "total": 458
+            },
+            "deaths": {
+                "new": null,
+                "total": 4
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Philippines",
+            "cases": {
+                "new": "+71",
+                "active": 634,
+                "critical": 1,
+                "recovered": 28,
+                "total": 707
+            },
+            "deaths": {
+                "new": "+7",
+                "total": 45
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Russia",
+            "cases": {
+                "new": "+182",
+                "active": 799,
+                "critical": 8,
+                "recovered": 38,
+                "total": 840
+            },
+            "deaths": {
+                "new": null,
+                "total": 3
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Estonia",
+            "cases": {
+                "new": "+134",
+                "active": 529,
+                "critical": 6,
+                "recovered": 8,
+                "total": 538
+            },
+            "deaths": {
+                "new": null,
+                "total": 1
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Egypt",
+            "cases": {
+                "new": "+39",
+                "active": 369,
+                "critical": 0,
+                "recovered": 102,
+                "total": 495
+            },
+            "deaths": {
+                "new": "+3",
+                "total": 24
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Hong-Kong",
+            "cases": {
+                "new": "+42",
+                "active": 339,
+                "critical": 5,
+                "recovered": 110,
+                "total": 453
+            },
+            "deaths": {
+                "new": null,
+                "total": 4
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "South-Africa",
+            "cases": {
+                "new": "+218",
+                "active": 915,
+                "critical": 2,
+                "recovered": 12,
+                "total": 927
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Lebanon",
+            "cases": {
+                "new": "+35",
+                "active": 339,
+                "critical": 3,
+                "recovered": 23,
+                "total": 368
+            },
+            "deaths": {
+                "new": null,
+                "total": 6
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Iraq",
+            "cases": {
+                "new": "+36",
+                "active": 241,
+                "critical": 0,
+                "recovered": 105,
+                "total": 382
+            },
+            "deaths": {
+                "new": "+7",
+                "total": 36
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Croatia",
+            "cases": {
+                "new": "+53",
+                "active": 470,
+                "critical": 14,
+                "recovered": 22,
+                "total": 495
+            },
+            "deaths": {
+                "new": "+2",
+                "total": 3
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Mexico",
+            "cases": {
+                "new": "+70",
+                "active": 465,
+                "critical": 1,
+                "recovered": 4,
+                "total": 475
+            },
+            "deaths": {
+                "new": "+1",
+                "total": 6
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Panama",
+            "cases": {
+                "new": "+116",
+                "active": 663,
+                "critical": 20,
+                "recovered": 2,
+                "total": 674
+            },
+            "deaths": {
+                "new": "+1",
+                "total": 9
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Colombia",
+            "cases": {
+                "new": "+21",
+                "active": 477,
+                "critical": 0,
+                "recovered": 8,
+                "total": 491
+            },
+            "deaths": {
+                "new": "+2",
+                "total": 6
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Slovakia",
+            "cases": {
+                "new": "+10",
+                "active": 224,
+                "critical": 2,
+                "recovered": 2,
+                "total": 226
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Kuwait",
+            "cases": {
+                "new": "+13",
+                "active": 159,
+                "critical": 7,
+                "recovered": 49,
+                "total": 208
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Serbia",
+            "cases": {
+                "new": "+73",
+                "active": 435,
+                "critical": 21,
+                "recovered": 15,
+                "total": 457
+            },
+            "deaths": {
+                "new": "+3",
+                "total": 7
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Bulgaria",
+            "cases": {
+                "new": "+22",
+                "active": 253,
+                "critical": 8,
+                "recovered": 8,
+                "total": 264
+            },
+            "deaths": {
+                "new": null,
+                "total": 3
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "San-Marino",
+            "cases": {
+                "new": "+21",
+                "active": 183,
+                "critical": 12,
+                "recovered": 4,
+                "total": 208
+            },
+            "deaths": {
+                "new": null,
+                "total": 21
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Armenia",
+            "cases": {
+                "new": "+25",
+                "active": 271,
+                "critical": 6,
+                "recovered": 18,
+                "total": 290
+            },
+            "deaths": {
+                "new": "+1",
+                "total": 1
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Argentina",
+            "cases": {
+                "new": "+87",
+                "active": 505,
+                "critical": 0,
+                "recovered": 72,
+                "total": 589
+            },
+            "deaths": {
+                "new": "+4",
+                "total": 12
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Taiwan",
+            "cases": {
+                "new": "+17",
+                "active": 221,
+                "critical": 0,
+                "recovered": 29,
+                "total": 252
+            },
+            "deaths": {
+                "new": null,
+                "total": 2
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "UAE",
+            "cases": {
+                "new": "+85",
+                "active": 279,
+                "critical": 2,
+                "recovered": 52,
+                "total": 333
+            },
+            "deaths": {
+                "new": null,
+                "total": 2
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Algeria",
+            "cases": {
+                "new": "+65",
+                "active": 313,
+                "critical": 0,
+                "recovered": 29,
+                "total": 367
+            },
+            "deaths": {
+                "new": "+4",
+                "total": 25
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Latvia",
+            "cases": {
+                "new": "+23",
+                "active": 243,
+                "critical": 0,
+                "recovered": 1,
+                "total": 244
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Costa-Rica",
+            "cases": {
+                "new": "+30",
+                "active": 227,
+                "critical": 5,
+                "recovered": 2,
+                "total": 231
+            },
+            "deaths": {
+                "new": null,
+                "total": 2
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Dominican-Republic",
+            "cases": {
+                "new": "+96",
+                "active": 475,
+                "critical": 0,
+                "recovered": 3,
+                "total": 488
+            },
+            "deaths": {
+                "new": null,
+                "total": 10
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Uruguay",
+            "cases": {
+                "new": "+21",
+                "active": 238,
+                "critical": 3,
+                "recovered": 0,
+                "total": 238
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Hungary",
+            "cases": {
+                "new": "+35",
+                "active": 223,
+                "critical": 6,
+                "recovered": 28,
+                "total": 261
+            },
+            "deaths": {
+                "new": null,
+                "total": 10
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Jordan",
+            "cases": {
+                "new": "+40",
+                "active": 211,
+                "critical": 0,
+                "recovered": 1,
+                "total": 212
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Lithuania",
+            "cases": {
+                "new": "+25",
+                "active": 294,
+                "critical": 1,
+                "recovered": 1,
+                "total": 299
+            },
+            "deaths": {
+                "new": null,
+                "total": 4
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Morocco",
+            "cases": {
+                "new": "+50",
+                "active": 256,
+                "critical": 1,
+                "recovered": 8,
+                "total": 275
+            },
+            "deaths": {
+                "new": "+5",
+                "total": 11
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Vietnam",
+            "cases": {
+                "new": "+5",
+                "active": 133,
+                "critical": 3,
+                "recovered": 20,
+                "total": 153
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Bosnia-and-Herzegovina",
+            "cases": {
+                "new": "+15",
+                "active": 186,
+                "critical": 1,
+                "recovered": 2,
+                "total": 191
+            },
+            "deaths": {
+                "new": null,
+                "total": 3
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Faeroe-Islands",
+            "cases": {
+                "new": "+8",
+                "active": 93,
+                "critical": 0,
+                "recovered": 47,
+                "total": 140
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Andorra",
+            "cases": {
+                "new": "+36",
+                "active": 220,
+                "critical": 6,
+                "recovered": 1,
+                "total": 224
+            },
+            "deaths": {
+                "new": "+2",
+                "total": 3
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "North-Macedonia",
+            "cases": {
+                "new": "+24",
+                "active": 195,
+                "critical": 1,
+                "recovered": 3,
+                "total": 201
+            },
+            "deaths": {
+                "new": null,
+                "total": 3
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Cyprus",
+            "cases": {
+                "new": "+14",
+                "active": 139,
+                "critical": 3,
+                "recovered": 4,
+                "total": 146
+            },
+            "deaths": {
+                "new": null,
+                "total": 3
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Brunei-",
+            "cases": {
+                "new": "+5",
+                "active": 109,
+                "critical": 1,
+                "recovered": 5,
+                "total": 114
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Moldova",
+            "cases": {
+                "new": "+28",
+                "active": 174,
+                "critical": 28,
+                "recovered": 2,
+                "total": 177
+            },
+            "deaths": {
+                "new": null,
+                "total": 1
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Sri-Lanka",
+            "cases": {
+                "new": "+4",
+                "active": 99,
+                "critical": 3,
+                "recovered": 7,
+                "total": 106
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Albania",
+            "cases": {
+                "new": "+28",
+                "active": 151,
+                "critical": 3,
+                "recovered": 17,
+                "total": 174
+            },
+            "deaths": {
+                "new": "+1",
+                "total": 6
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Belarus",
+            "cases": {
+                "new": "+5",
+                "active": 57,
+                "critical": 2,
+                "recovered": 29,
+                "total": 86
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Malta",
+            "cases": {
+                "new": "+5",
+                "active": 132,
+                "critical": 1,
+                "recovered": 2,
+                "total": 134
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Venezuela",
+            "cases": {
+                "new": "+1",
+                "active": 92,
+                "critical": 2,
+                "recovered": 15,
+                "total": 107
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Burkina-Faso",
+            "cases": {
+                "new": "+6",
+                "active": 135,
+                "critical": 0,
+                "recovered": 10,
+                "total": 152
+            },
+            "deaths": {
+                "new": "+3",
+                "total": 7
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Tunisia",
+            "cases": {
+                "new": "+24",
+                "active": 190,
+                "critical": 10,
+                "recovered": 2,
+                "total": 197
+            },
+            "deaths": {
+                "new": null,
+                "total": 5
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Guadeloupe",
+            "cases": {
+                "new": "+11",
+                "active": 72,
+                "critical": 4,
+                "recovered": 0,
+                "total": 73
+            },
+            "deaths": {
+                "new": null,
+                "total": 1
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Senegal",
+            "cases": {
+                "new": "+6",
+                "active": 96,
+                "critical": 0,
+                "recovered": 9,
+                "total": 105
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Kazakhstan",
+            "cases": {
+                "new": "+32",
+                "active": 110,
+                "critical": 0,
+                "recovered": 2,
+                "total": 113
+            },
+            "deaths": {
+                "new": "+1",
+                "total": 1
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Azerbaijan",
+            "cases": {
+                "new": "+29",
+                "active": 104,
+                "critical": 6,
+                "recovered": 15,
+                "total": 122
+            },
+            "deaths": {
+                "new": "+1",
+                "total": 3
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Cambodia",
+            "cases": {
+                "new": "+2",
+                "active": 88,
+                "critical": 1,
+                "recovered": 10,
+                "total": 98
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Palestine",
+            "cases": {
+                "new": "+13",
+                "active": 66,
+                "critical": 0,
+                "recovered": 17,
+                "total": 84
+            },
+            "deaths": {
+                "new": null,
+                "total": 1
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "New-Zealand",
+            "cases": {
+                "new": "+85",
+                "active": 331,
+                "critical": 1,
+                "recovered": 37,
+                "total": 368
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Oman",
+            "cases": {
+                "new": "+10",
+                "active": 86,
+                "critical": 0,
+                "recovered": 23,
+                "total": 109
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Georgia",
+            "cases": {
+                "new": "+4",
+                "active": 68,
+                "critical": 1,
+                "recovered": 11,
+                "total": 79
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Trinidad-and-Tobago",
+            "cases": {
+                "new": "+5",
+                "active": 64,
+                "critical": 0,
+                "recovered": 0,
+                "total": 65
+            },
+            "deaths": {
+                "new": null,
+                "total": 1
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Ukraine",
+            "cases": {
+                "new": "+51",
+                "active": 190,
+                "critical": 0,
+                "recovered": 1,
+                "total": 196
+            },
+            "deaths": {
+                "new": null,
+                "total": 5
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "R&eacute;union",
+            "cases": {
+                "new": "+24",
+                "active": 134,
+                "critical": 0,
+                "recovered": 1,
+                "total": 135
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Uzbekistan",
+            "cases": {
+                "new": "+15",
+                "active": 75,
+                "critical": 4,
+                "recovered": 0,
+                "total": 75
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Cameroon",
+            "cases": {
+                "new": "+9",
+                "active": 72,
+                "critical": 0,
+                "recovered": 2,
+                "total": 75
+            },
+            "deaths": {
+                "new": null,
+                "total": 1
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Martinique",
+            "cases": {
+                "new": "+15",
+                "active": 80,
+                "critical": 12,
+                "recovered": 0,
+                "total": 81
+            },
+            "deaths": {
+                "new": null,
+                "total": 1
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Liechtenstein",
+            "cases": {
+                "new": "+5",
+                "active": 56,
+                "critical": 0,
+                "recovered": 0,
+                "total": 56
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Channel-Islands",
+            "cases": {
+                "new": "+20",
+                "active": 65,
+                "critical": 0,
+                "recovered": 0,
+                "total": 66
+            },
+            "deaths": {
+                "new": "+1",
+                "total": 1
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Bangladesh",
+            "cases": {
+                "new": "+5",
+                "active": 28,
+                "critical": 1,
+                "recovered": 11,
+                "total": 44
+            },
+            "deaths": {
+                "new": null,
+                "total": 5
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Afghanistan",
+            "cases": {
+                "new": "+10",
+                "active": 88,
+                "critical": 0,
+                "recovered": 2,
+                "total": 94
+            },
+            "deaths": {
+                "new": "+2",
+                "total": 4
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Honduras",
+            "cases": {
+                "new": "+15",
+                "active": 66,
+                "critical": 0,
+                "recovered": 0,
+                "total": 67
+            },
+            "deaths": {
+                "new": "+1",
+                "total": 1
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "DRC",
+            "cases": {
+                "new": "+3",
+                "active": 48,
+                "critical": 0,
+                "recovered": 0,
+                "total": 51
+            },
+            "deaths": {
+                "new": "+1",
+                "total": 3
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Nigeria",
+            "cases": {
+                "new": "+14",
+                "active": 61,
+                "critical": 0,
+                "recovered": 3,
+                "total": 65
+            },
+            "deaths": {
+                "new": null,
+                "total": 1
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Cuba",
+            "cases": {
+                "new": "+10",
+                "active": 64,
+                "critical": 2,
+                "recovered": 1,
+                "total": 67
+            },
+            "deaths": {
+                "new": "+1",
+                "total": 2
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Ghana",
+            "cases": {
+                "new": "+64",
+                "active": 127,
+                "critical": 0,
+                "recovered": 1,
+                "total": 132
+            },
+            "deaths": {
+                "new": null,
+                "total": 4
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Puerto-Rico",
+            "cases": {
+                "new": "+8",
+                "active": 36,
+                "critical": 0,
+                "recovered": 1,
+                "total": 39
+            },
+            "deaths": {
+                "new": null,
+                "total": 2
+            },
+            "day": "2020-03-25",
+            "time": "2020-03-25T06:00:07+00:00"
+        },
+        {
+            "country": "Jamaica",
+            "cases": {
+                "new": "+5",
+                "active": 23,
+                "critical": 0,
+                "recovered": 2,
+                "total": 26
+            },
+            "deaths": {
+                "new": null,
+                "total": 1
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Bolivia",
+            "cases": {
+                "new": "+29",
+                "active": 61,
+                "critical": 0,
+                "recovered": 0,
+                "total": 61
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Guyana",
+            "cases": {
+                "new": null,
+                "active": 4,
+                "critical": 0,
+                "recovered": 0,
+                "total": 5
+            },
+            "deaths": {
+                "new": null,
+                "total": 1
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Paraguay",
+            "cases": {
+                "new": "+4",
+                "active": 38,
+                "critical": 1,
+                "recovered": 0,
+                "total": 41
+            },
+            "deaths": {
+                "new": null,
+                "total": 3
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Macao",
+            "cases": {
+                "new": null,
+                "active": 21,
+                "critical": 0,
+                "recovered": 10,
+                "total": 31
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Monaco",
+            "cases": {
+                "new": "+2",
+                "active": 32,
+                "critical": 0,
+                "recovered": 1,
+                "total": 33
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "French-Guiana",
+            "cases": {
+                "new": "+5",
+                "active": 22,
+                "critical": 0,
+                "recovered": 6,
+                "total": 28
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Guatemala",
+            "cases": {
+                "new": "+1",
+                "active": 20,
+                "critical": 0,
+                "recovered": 4,
+                "total": 25
+            },
+            "deaths": {
+                "new": null,
+                "total": 1
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Rwanda",
+            "cases": {
+                "new": "+9",
+                "active": 50,
+                "critical": 0,
+                "recovered": 0,
+                "total": 50
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Montenegro",
+            "cases": {
+                "new": "+16",
+                "active": 68,
+                "critical": 1,
+                "recovered": 0,
+                "total": 69
+            },
+            "deaths": {
+                "new": null,
+                "total": 1
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Togo",
+            "cases": {
+                "new": "+1",
+                "active": 23,
+                "critical": 0,
+                "recovered": 1,
+                "total": 24
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "French-Polynesia",
+            "cases": {
+                "new": "+5",
+                "active": 30,
+                "critical": 0,
+                "recovered": 0,
+                "total": 30
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Guam",
+            "cases": {
+                "new": "+3",
+                "active": 31,
+                "critical": 0,
+                "recovered": 0,
+                "total": 32
+            },
+            "deaths": {
+                "new": null,
+                "total": 1
+            },
+            "day": "2020-03-25",
+            "time": "2020-03-25T06:00:07+00:00"
+        },
+        {
+            "country": "Mauritius",
+            "cases": {
+                "new": "+33",
+                "active": 79,
+                "critical": 1,
+                "recovered": 0,
+                "total": 81
+            },
+            "deaths": {
+                "new": null,
+                "total": 2
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Barbados",
+            "cases": {
+                "new": "+6",
+                "active": 24,
+                "critical": 0,
+                "recovered": 0,
+                "total": 24
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Ivory-Coast",
+            "cases": {
+                "new": "+16",
+                "active": 93,
+                "critical": 0,
+                "recovered": 3,
+                "total": 96
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Kyrgyzstan",
+            "cases": {
+                "new": "+2",
+                "active": 44,
+                "critical": 0,
+                "recovered": 0,
+                "total": 44
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Maldives",
+            "cases": {
+                "new": null,
+                "active": 5,
+                "critical": 0,
+                "recovered": 8,
+                "total": 13
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Mayotte",
+            "cases": {
+                "new": "+12",
+                "active": 36,
+                "critical": 0,
+                "recovered": 0,
+                "total": 36
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Gibraltar",
+            "cases": {
+                "new": "+9",
+                "active": 22,
+                "critical": 0,
+                "recovered": 13,
+                "total": 35
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Mongolia",
+            "cases": {
+                "new": "+1",
+                "active": 11,
+                "critical": 0,
+                "recovered": 0,
+                "total": 11
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Ethiopia",
+            "cases": {
+                "new": "+1",
+                "active": 12,
+                "critical": 0,
+                "recovered": 0,
+                "total": 12
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Kenya",
+            "cases": {
+                "new": "+3",
+                "active": 29,
+                "critical": 0,
+                "recovered": 1,
+                "total": 31
+            },
+            "deaths": {
+                "new": "+1",
+                "total": 1
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Seychelles",
+            "cases": {
+                "new": null,
+                "active": 7,
+                "critical": 0,
+                "recovered": 0,
+                "total": 7
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Equatorial-Guinea",
+            "cases": {
+                "new": "+3",
+                "active": 12,
+                "critical": 0,
+                "recovered": 0,
+                "total": 12
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Tanzania",
+            "cases": {
+                "new": "+1",
+                "active": 13,
+                "critical": 0,
+                "recovered": 0,
+                "total": 13
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "U.S.-Virgin-Islands",
+            "cases": {
+                "new": "+11",
+                "active": 17,
+                "critical": 0,
+                "recovered": 0,
+                "total": 17
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-25",
+            "time": "2020-03-25T06:00:07+00:00"
+        },
+        {
+            "country": "Gabon",
+            "cases": {
+                "new": "+1",
+                "active": 6,
+                "critical": 0,
+                "recovered": 0,
+                "total": 7
+            },
+            "deaths": {
+                "new": null,
+                "total": 1
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Aruba",
+            "cases": {
+                "new": "+9",
+                "active": 27,
+                "critical": 0,
+                "recovered": 1,
+                "total": 28
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Saint-Martin",
+            "cases": {
+                "new": "+3",
+                "active": 11,
+                "critical": 0,
+                "recovered": 0,
+                "total": 11
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Suriname",
+            "cases": {
+                "new": "+1",
+                "active": 8,
+                "critical": 0,
+                "recovered": 0,
+                "total": 8
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Bahamas",
+            "cases": {
+                "new": "+4",
+                "active": 8,
+                "critical": 0,
+                "recovered": 1,
+                "total": 9
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "New-Caledonia",
+            "cases": {
+                "new": "+4",
+                "active": 14,
+                "critical": 0,
+                "recovered": 0,
+                "total": 14
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Cayman-Islands",
+            "cases": {
+                "new": "+2",
+                "active": 7,
+                "critical": 0,
+                "recovered": 0,
+                "total": 8
+            },
+            "deaths": {
+                "new": null,
+                "total": 1
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Cura&ccedil;ao",
+            "cases": {
+                "new": "+1",
+                "active": 4,
+                "critical": 0,
+                "recovered": 2,
+                "total": 7
+            },
+            "deaths": {
+                "new": null,
+                "total": 1
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Cabo-Verde",
+            "cases": {
+                "new": "+1",
+                "active": 4,
+                "critical": 0,
+                "recovered": 0,
+                "total": 5
+            },
+            "deaths": {
+                "new": null,
+                "total": 1
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "CAR",
+            "cases": {
+                "new": null,
+                "active": 3,
+                "critical": 0,
+                "recovered": 0,
+                "total": 3
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Congo",
+            "cases": {
+                "new": "+1",
+                "active": 4,
+                "critical": 0,
+                "recovered": 0,
+                "total": 4
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "El-Salvador",
+            "cases": {
+                "new": "+8",
+                "active": 13,
+                "critical": 0,
+                "recovered": 0,
+                "total": 13
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Liberia",
+            "cases": {
+                "new": null,
+                "active": 3,
+                "critical": 0,
+                "recovered": 0,
+                "total": 3
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Madagascar",
+            "cases": {
+                "new": "+4",
+                "active": 23,
+                "critical": 0,
+                "recovered": 0,
+                "total": 23
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Namibia",
+            "cases": {
+                "new": "+1",
+                "active": 6,
+                "critical": 0,
+                "recovered": 2,
+                "total": 8
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "St.-Barth",
+            "cases": {
+                "new": null,
+                "active": 3,
+                "critical": 0,
+                "recovered": 0,
+                "total": 3
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Zimbabwe",
+            "cases": {
+                "new": null,
+                "active": 2,
+                "critical": 0,
+                "recovered": 0,
+                "total": 3
+            },
+            "deaths": {
+                "new": "+1",
+                "total": 1
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Sudan",
+            "cases": {
+                "new": "+1",
+                "active": 2,
+                "critical": 0,
+                "recovered": 0,
+                "total": 3
+            },
+            "deaths": {
+                "new": null,
+                "total": 1
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Angola",
+            "cases": {
+                "new": "+1",
+                "active": 4,
+                "critical": 0,
+                "recovered": 0,
+                "total": 4
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Benin",
+            "cases": {
+                "new": "+4",
+                "active": 6,
+                "critical": 0,
+                "recovered": 0,
+                "total": 6
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Bermuda",
+            "cases": {
+                "new": "+8",
+                "active": 13,
+                "critical": 0,
+                "recovered": 2,
+                "total": 15
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Bhutan",
+            "cases": {
+                "new": null,
+                "active": 2,
+                "critical": 0,
+                "recovered": 0,
+                "total": 2
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Fiji",
+            "cases": {
+                "new": "+1",
+                "active": 5,
+                "critical": 0,
+                "recovered": 0,
+                "total": 5
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Greenland",
+            "cases": {
+                "new": "+1",
+                "active": 4,
+                "critical": 0,
+                "recovered": 2,
+                "total": 6
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Guinea",
+            "cases": {
+                "new": "+2",
+                "active": 4,
+                "critical": 0,
+                "recovered": 0,
+                "total": 4
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Haiti",
+            "cases": {
+                "new": "+1",
+                "active": 8,
+                "critical": 0,
+                "recovered": 0,
+                "total": 8
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Isle-of-Man",
+            "cases": {
+                "new": "+2",
+                "active": 25,
+                "critical": 0,
+                "recovered": 0,
+                "total": 25
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Mauritania",
+            "cases": {
+                "new": "+1",
+                "active": 3,
+                "critical": 0,
+                "recovered": 0,
+                "total": 3
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Nicaragua",
+            "cases": {
+                "new": null,
+                "active": 2,
+                "critical": 0,
+                "recovered": 0,
+                "total": 2
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Saint-Lucia",
+            "cases": {
+                "new": null,
+                "active": 2,
+                "critical": 0,
+                "recovered": 1,
+                "total": 3
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Zambia",
+            "cases": {
+                "new": "+4",
+                "active": 16,
+                "critical": 0,
+                "recovered": 0,
+                "total": 16
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Nepal",
+            "cases": {
+                "new": "+1",
+                "active": 2,
+                "critical": 0,
+                "recovered": 1,
+                "total": 3
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Antigua-and-Barbuda",
+            "cases": {
+                "new": "+4",
+                "active": 7,
+                "critical": 0,
+                "recovered": 0,
+                "total": 7
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Chad",
+            "cases": {
+                "new": "+1",
+                "active": 3,
+                "critical": 0,
+                "recovered": 0,
+                "total": 3
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Djibouti",
+            "cases": {
+                "new": "+8",
+                "active": 11,
+                "critical": 0,
+                "recovered": 0,
+                "total": 11
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Eritrea",
+            "cases": {
+                "new": "+2",
+                "active": 6,
+                "critical": 0,
+                "recovered": 0,
+                "total": 6
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Gambia",
+            "cases": {
+                "new": "+1",
+                "active": 2,
+                "critical": 0,
+                "recovered": 0,
+                "total": 3
+            },
+            "deaths": {
+                "new": null,
+                "total": 1
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Vatican-City",
+            "cases": {
+                "new": "+3",
+                "active": 4,
+                "critical": 0,
+                "recovered": 0,
+                "total": 4
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Montserrat",
+            "cases": {
+                "new": "+4",
+                "active": 5,
+                "critical": 0,
+                "recovered": 0,
+                "total": 5
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Niger",
+            "cases": {
+                "new": "+3",
+                "active": 9,
+                "critical": 0,
+                "recovered": 0,
+                "total": 10
+            },
+            "deaths": {
+                "new": null,
+                "total": 1
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Papua-New-Guinea",
+            "cases": {
+                "new": null,
+                "active": 1,
+                "critical": 0,
+                "recovered": 0,
+                "total": 1
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "St.-Vincent-Grenadines",
+            "cases": {
+                "new": null,
+                "active": 1,
+                "critical": 0,
+                "recovered": 0,
+                "total": 1
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Sint-Maarten",
+            "cases": {
+                "new": "+1",
+                "active": 3,
+                "critical": 0,
+                "recovered": 0,
+                "total": 3
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Somalia",
+            "cases": {
+                "new": "+1",
+                "active": 2,
+                "critical": 0,
+                "recovered": 0,
+                "total": 2
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Eswatini",
+            "cases": {
+                "new": "+2",
+                "active": 6,
+                "critical": 0,
+                "recovered": 0,
+                "total": 6
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Timor-Leste",
+            "cases": {
+                "new": null,
+                "active": 1,
+                "critical": 0,
+                "recovered": 0,
+                "total": 1
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Uganda",
+            "cases": {
+                "new": "+5",
+                "active": 14,
+                "critical": 0,
+                "recovered": 0,
+                "total": 14
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "All",
+            "cases": {
+                "new": "60764",
+                "active": 383786,
+                "critical": 19357,
+                "recovered": 123942,
+                "total": 531799
+            },
+            "deaths": {
+                "new": "2789",
+                "total": 24071
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Mozambique",
+            "cases": {
+                "new": "+2",
+                "active": 7,
+                "critical": 0,
+                "recovered": 0,
+                "total": 7
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Syria",
+            "cases": {
+                "new": "+4",
+                "active": 5,
+                "critical": 0,
+                "recovered": 0,
+                "total": 5
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Grenada",
+            "cases": {
+                "new": "+6",
+                "active": 7,
+                "critical": 0,
+                "recovered": 0,
+                "total": 7
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Dominica",
+            "cases": {
+                "new": "+4",
+                "active": 11,
+                "critical": 0,
+                "recovered": 0,
+                "total": 11
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Turks-and-Caicos",
+            "cases": {
+                "new": "+1",
+                "active": 2,
+                "critical": 0,
+                "recovered": 0,
+                "total": 2
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Belize",
+            "cases": {
+                "new": "+1",
+                "active": 2,
+                "critical": 0,
+                "recovered": 0,
+                "total": 2
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Myanmar",
+            "cases": {
+                "new": "+2",
+                "active": 5,
+                "critical": 0,
+                "recovered": 0,
+                "total": 5
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Laos",
+            "cases": {
+                "new": "+3",
+                "active": 6,
+                "critical": 0,
+                "recovered": 0,
+                "total": 6
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Libya",
+            "cases": {
+                "new": "+1",
+                "active": 1,
+                "critical": 0,
+                "recovered": 0,
+                "total": 1
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Mali",
+            "cases": {
+                "new": "+2",
+                "active": 4,
+                "critical": 0,
+                "recovered": 0,
+                "total": 4
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Guinea-Bissau",
+            "cases": {
+                "new": "+2",
+                "active": 2,
+                "critical": 0,
+                "recovered": 0,
+                "total": 2
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "British-Virgin-Islands",
+            "cases": {
+                "new": "+2",
+                "active": 2,
+                "critical": 0,
+                "recovered": 0,
+                "total": 2
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Saint-Kitts-and-Nevis",
+            "cases": {
+                "new": "+2",
+                "active": 2,
+                "critical": 0,
+                "recovered": 0,
+                "total": 2
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        },
+        {
+            "country": "Anguilla",
+            "cases": {
+                "new": "+2",
+                "active": 2,
+                "critical": 0,
+                "recovered": 0,
+                "total": 2
+            },
+            "deaths": {
+                "new": null,
+                "total": 0
+            },
+            "day": "2020-03-27",
+            "time": "2020-03-27T01:45:05+00:00"
+        }
+    ]
+}
